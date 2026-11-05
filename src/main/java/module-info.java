@@ -1,8 +1,8 @@
 module name.dannywatts.cmpsc221hw4 {
     requires javafx.controls;
-    requires javafx.fxml;
 
-
-    opens name.dannywatts.cmpsc221hw4 to javafx.fxml;
-    exports name.dannywatts.cmpsc221hw4;
+    exports name.dannywatts.cmpsc221hw4.p1_notepad;
+    exports name.dannywatts.cmpsc221hw4.p2_candlestick;
+    exports name.dannywatts.cmpsc221hw4.p3_calculator;
+    exports name.dannywatts.cmpsc221hw4.p4_fractal;
 }

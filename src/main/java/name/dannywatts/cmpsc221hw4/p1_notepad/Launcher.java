@@ -1,4 +1,4 @@
-package name.dannywatts.cmpsc221hw4;
+package name.dannywatts.cmpsc221hw4.p1_notepad;
 
 import javafx.application.Application;
 
